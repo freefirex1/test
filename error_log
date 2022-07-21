@@ -1,0 +1,38 @@
+[17-Jul-2022 20:30:11 Europe/Vilnius] PHP Notice:  Undefined index: id in /var/home/mvcontro/faucet4up.com/rest_password.php on line 8
+[17-Jul-2022 20:30:11 Europe/Vilnius] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /var/home/mvcontro/faucet4up.com/rest_password.php:12
+Stack trace:
+#0 /var/home/mvcontro/faucet4up.com/rest_password.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /var/home/mvcontro/faucet4up.com/rest_password.php on line 12
+[17-Jul-2022 20:47:03 Europe/Vilnius] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /var/home/mvcontro/faucet4up.com/index_admin.php on line 39
+[17-Jul-2022 20:47:03 Europe/Vilnius] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /var/home/mvcontro/faucet4up.com/index_admin.php on line 56
+[17-Jul-2022 23:01:17 Europe/Vilnius] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /var/home/mvcontro/faucet4up.com/index.php on line 2
+[17-Jul-2022 23:01:24 Europe/Vilnius] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /var/home/mvcontro/faucet4up.com/index.php on line 2
+[18-Jul-2022 00:05:12 Europe/Vilnius] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /var/home/mvcontro/faucet4up.com/index.php on line 2
+[18-Jul-2022 02:12:27 Europe/Vilnius] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /var/home/mvcontro/faucet4up.com/index.php on line 2
+[18-Jul-2022 02:12:50 Europe/Vilnius] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /var/home/mvcontro/faucet4up.com/index.php on line 2
+[18-Jul-2022 02:12:57 Europe/Vilnius] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /var/home/mvcontro/faucet4up.com/index.php on line 2
+[18-Jul-2022 02:13:00 Europe/Vilnius] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /var/home/mvcontro/faucet4up.com/index.php on line 2
+[18-Jul-2022 02:14:20 Europe/Vilnius] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /var/home/mvcontro/faucet4up.com/index.php on line 2
+[18-Jul-2022 02:14:48 Europe/Vilnius] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /var/home/mvcontro/faucet4up.com/index.php on line 2
+[18-Jul-2022 03:59:39 Europe/Vilnius] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /var/home/mvcontro/faucet4up.com/index.php on line 2
+[18-Jul-2022 05:24:54 Europe/Vilnius] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /var/home/mvcontro/faucet4up.com/index.php on line 2
+[18-Jul-2022 05:25:04 Europe/Vilnius] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /var/home/mvcontro/faucet4up.com/index.php on line 2
+[18-Jul-2022 16:44:27 Europe/Vilnius] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /var/home/mvcontro/faucet4up.com/index.php on line 2
+[18-Jul-2022 19:53:14 Europe/Vilnius] PHP Notice:  Undefined index: username in /var/home/mvcontro/faucet4up.com/index_admin.php on line 4
+[18-Jul-2022 19:53:14 Europe/Vilnius] PHP Notice:  Undefined index: uid in /var/home/mvcontro/faucet4up.com/index_admin.php on line 8
+[18-Jul-2022 19:53:28 Europe/Vilnius] PHP Notice:  Undefined index: username in /var/home/mvcontro/faucet4up.com/login_admin.php on line 12
+[18-Jul-2022 19:53:28 Europe/Vilnius] PHP Notice:  Undefined index: password in /var/home/mvcontro/faucet4up.com/login_admin.php on line 13
+[18-Jul-2022 19:54:34 Europe/Vilnius] PHP Notice:  Undefined variable: uid in /var/home/mvcontro/faucet4up.com/download.php on line 25
+[18-Jul-2022 19:54:34 Europe/Vilnius] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /var/home/mvcontro/faucet4up.com/download.php:26
+Stack trace:
+#0 /var/home/mvcontro/faucet4up.com/download.php(26): PDOStatement->execute()
+#1 {main}
+  thrown in /var/home/mvcontro/faucet4up.com/download.php on line 26
+[18-Jul-2022 20:06:49 Europe/Vilnius] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /var/home/mvcontro/faucet4up.com/index.php on line 2
+[18-Jul-2022 20:11:59 Europe/Vilnius] PHP Notice:  Undefined variable: session in /var/home/mvcontro/faucet4up.com/delete.php on line 4
+[18-Jul-2022 20:11:59 Europe/Vilnius] PHP Notice:  Undefined index: id in /var/home/mvcontro/faucet4up.com/delete.php on line 5
+[18-Jul-2022 20:12:20 Europe/Vilnius] PHP Notice:  Undefined variable: session in /var/home/mvcontro/faucet4up.com/delete.php on line 4
+[18-Jul-2022 20:12:20 Europe/Vilnius] PHP Notice:  Undefined index: id in /var/home/mvcontro/faucet4up.com/delete.php on line 5
+[18-Jul-2022 20:12:21 Europe/Vilnius] PHP Notice:  Undefined variable: session in /var/home/mvcontro/faucet4up.com/delete.php on line 4
+[18-Jul-2022 20:12:21 Europe/Vilnius] PHP Notice:  Undefined index: id in /var/home/mvcontro/faucet4up.com/delete.php on line 5
